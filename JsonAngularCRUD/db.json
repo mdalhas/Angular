@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "hasan",
+      "dep": "teacher",
+      "gender": "male",
+      "hobby":"Fishing"
+
+    }
+  ]
+}
