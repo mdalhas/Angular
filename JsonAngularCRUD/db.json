@@ -5,8 +5,21 @@
       "name": "hasan",
       "dep": "teacher",
       "gender": "male",
-      "hobby":"Fishing"
-
+      "hobby": "Fishing"
+    },
+    {
+      "id": 2,
+      "name": "Sakil Khan",
+      "dep": "fee",
+      "gender": "sdf",
+      "hobby": "dfds"
+    },
+    {
+      "id": 3,
+      "name": "df",
+      "dep": "sdf",
+      "gender": "df",
+      "hobby": "sdf"
     }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "dob": "typicode",
+      "gender": "typicode",
+      "hobby": "typicode",
+      "bloodGroup": "typicode"
+
+    }
+  ]
+}
